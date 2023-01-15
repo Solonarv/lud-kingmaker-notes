@@ -88,8 +88,9 @@ she raises her glass to us and bids the feast begin. servants come in bringing f
 
 we remember nothing of note about jamandi.
 
-influence minigame begin! 20 minutes per round.
 
+## influence minigame begin!
+20 minutes per round.
 ### Round 1
 Veris is curious about a deathly pale elf in pale clothing (no jewelry, massive scythe) next to him.  He learns nothing.
 
@@ -121,8 +122,49 @@ Izaya continues trying to befriend Amiri, telling adventure stories from grandpa
 ### Round 4
 Veris approaches Valerie, who seems less annoyed than she was by Ducim's antics (not a high bar). She asks if Veris is also here to bring some law to the Stolen Lands, or just here to watch. Veris: why come here if not to do something? They exchange names. The festivities are nice enough, but she wishes there were something more practical to do. Veris drinks to that. She's on the lookout for familiar faces, hasn't spotted any, and would rather it stay that way. Why is Veris here? personal interest, familial connection, a mix. Valerie: someone has to bring law and order, might as well be me. She tries to recruit him, and he politely demurrs.
 
-Ducim
+Ducim tries to find out how to approach the other dwarf at the table. It's Groetus lore: the man's faithful.
 
-Aerwynn
+Aerwynn buries his distaste and tries to get into the good graces of Mr Superiority Complex the Gnome again. He doesn't buy it.
 
-Izaya tries to schmooze up to the gnome guy by pretending to share his better-than-everyone belief.
+Izaya tries to schmooze up to the gnome guy by pretending to share his better-than-everyone belief. It helps that his superiority complex is fueled by his innate/sorcerous spellcasting, which Izaya shares. He's so impressed he gives her a beautiful brooch of shielding, which she tucks away reverently while thanking him. They exchange names; he's Tartuccio.
+
+### Round 5
+Veris observes the black-clad human and gets no read.
+
+Ducim goes for the gnome, trying to stare him down while visibly fondling his sword. The gnome pretends (not very successfully) to not be affected. Ducim talks about all the limitations of spellcasting and tries to knock down the guy's superiority complex. Ducim goes all the way to threatening a duel, but the gnome demurrs, noting that Lady Aldori probably wouldn't appreciate a dead guest.
+
+Aerwynn tries to win back Linzi's favor with an apology, sweetened by a gift of a healing potion. She awkwardly accepts it, not really sure what to do, and gifts him two talismans in return (which Aerwynn gratefully accepts): a jade cat and an onyx panther.
+
+Izaya chats up the human. We exchange names: he's Maegar Varn. Izaya doesn't recognize the name. He's a swordlord by trade, noble by birth. He's already been assigned to (somewhere, name?) and asks if Izaya has been (no, still waiting). They toast and seem to part on good terms.
+
+### Round 6
+Veris continues chatting to Valerie. She asks if Veris follows any gods. He turns the question around: once, she was, but nowadays it's a bit difficult. She's not fully comfortable speaking about it.
+
+Aerwynn tries to chat up the edgy elf lady, asking her if she happens to be a magic user: yes, a little bit, but she doesn't think it relevant. The scythe is a weapon of her goddess, a matter of religion.
+
+Izaya talks to the dwarf at the other end of the table. He asks what her problem is: only that he's the one person at this table she hasn't spoken to! He accepts this, stating that one should know one's drinking buddies with the apocalypse coming any day now. They chat about trying to make the most of life before it ends (sooner than expected!), exchange names (he's Harrim), and motivations for going into the Stolen Lands (he's trying to see if he can find any of the dwarven ruins that are rumored to be there before Groetus ends the world).
+
+Ducim continues trying to intimidate Tartuccio into not being an asshole.
+
+### Verdict
+ - Amiri: Human, female. barbarian (obviously), respects strength, doesn't understand politics very well. Friendly-then-awkward with Izaya.
+ - Valerie: Human, female. (former?) cleric? of some deity. Really into law and order, wants to bring some to the Stolen Lands. Friendly with Veris, doesn't like Ducim (because of the sword intimidation stunt).
+ - Maegar Varn: Human, male. Swordlord by trade, noble by birth. Already assigned to Nomen Heights by Lady Aldori. Friendly with Izaya. He proposes that she might visit Nomen Heights sometime.
+ - Harrim: Dwarf, male. cleric of Groetus. Heading to the Stolen Lands in search of rumored dwarven ruins. Waiting for the apocalypse. Friendly with Izaya.
+ - Tartuccio: Gnome, male. Innate/spontaneous spellcaster of some kind (sorcerer? psychic? who knows) and thinks this makes him superior to everyone. Friendly with Izaya, because he thinks she agrees with him and is also a spellcaster of the same description. Less friendly with Aerwynn (whose attempts at schmoozing he saw through) and Ducim (who just tried to batter down his superiority complex with a dose of reality)!
+ - Unnamed elf lady: Elf, female. Follower of some goddess, scythe-wielder, some magic. OOC: goddess is probably Urgathoa (one of the few goddesses with a scythe favored weapon), she's probably a champion.
+ - Linzi: halfling, female. Bard/storyteller. Curious about the party and on good-ish terms with Aerwynn (there was some awkwardness but it was sorta smoothed over).
+
+## Jamandi's Speech
+around 9-10 in the evening
+heavy rain outside
+
+Jamandi rises, says she hopes we all enjoyed the feast. You honor me, but this night is dedicated to you. I can't wait to hear of your exploits in the Stolen Lands. Tomorrow I will assign you your territories. Make an early night of it, meet here tmrw at sunrise. She has prepared bedchambers for us all, which house guards will escort us to.
+
+Maegar Varn excuses himself, as he has business in the city.
+
+The Iron Wraiths are sleeping elsewhere.
+
+Many (party included) gratefully accept the hospitality, if only to not have to trudge back through the rain.
+
+We're all led into pretty nice rooms into the east wing - the four of us in the same room. There are guards posted outside.
