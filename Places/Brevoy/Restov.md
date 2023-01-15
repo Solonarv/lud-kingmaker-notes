@@ -1,0 +1,1 @@
+A city. Home of the Aldori Swordlords.

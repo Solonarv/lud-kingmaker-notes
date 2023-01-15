@@ -1,15 +1,15 @@
 2022-Jan-15
 
 ## Setup
-we were all invited to restov by [[jamandi aldori]], swordlord
+we were all invited to restov by [Jamandi Aldori](../NPCs/Jamandi%20Aldori.md), swordlord
 she wants to expand her influence into the stolen lands
 "call for heroes"
 attempt to expand Brevoy into the river kingdoms
 
-Verissian knows: one of the main opponents is king ?? who rules [[pitax]], south of the stolen lands. tyrannical government, suppresses arts/culture, rules by a despot.
+Verissian knows: one of the main opponents is king [Castruccio Irovetti](../NPCs/Castruccio%20Irovetti.md), ruler of Pitax south of the stolen lands. tyrannical government, suppresses arts/culture, ruled by a petty despot.
 
 ## Outside
-we arrive at [[jamandi aldori]]'s manor, very regal. dozens of heroes, mercenaries, local nobles etc here besides us.
+we arrive at [Jamandi Aldori](../NPCs/Jamandi%20Aldori.md)'s manor, very regal. dozens of heroes, mercenaries, local nobles etc here besides us.
 very impressive hilltop manor
 few 100m cobblestone path leads there from the city itself
 decorated with statues(?) of creatures (dragon, tarrasque, etc)
@@ -21,19 +21,19 @@ to Izaya's eyes: more of a "nouveau riche" sort of nice. house is pretty modern.
 starting to get dark already, skies threatening to rain.
 
 ### Descriptions
-veris (description) looks bored, but doesn't dare complain
+[Verissian Laurentine](../Player%20Characters/Verissian%20Laurentine.md) (description) looks bored, but doesn't dare complain
 
-[[../Player Characters/Ducim Nogleshbesmar]] average height for a dwarf, shortish beard (reddish), practicality over fashion, nice well-groomed handlebar mustache. bronzish tanned skin. practical/functional clothes, clearly been mended and re-mended. tattered black cloak. sheathed beeg (executioner's) sword with markings on the hilt.
+[Ducim Nogleshbesmar](../Player%20Characters/Ducim%20Nogleshbesmar.md) average height for a dwarf, shortish beard (reddish), practicality over fashion, nice well-groomed handlebar mustache. bronzish tanned skin. practical/functional clothes, clearly been mended and re-mended. tattered black cloak. sheathed beeg (executioner's) sword with markings on the hilt.
 
-[[../Player Characters/Aerwynn Goldmoon]] pretty short male elf. impeccably tailored clothes, hair beautifully brushed: very concerned about his appearance. has a big spellbook and a backpack. looks very concerned about possible rain.
+[Aerwynn Goldmoon](../Player%20Characters/Aerwynn%20Goldmoon.md) pretty short male elf. impeccably tailored clothes, hair beautifully brushed: very concerned about his appearance. has a big spellbook and a backpack. looks very concerned about possible rain.
 
-[[../Build Planning/Izaya]] description
+[Izaya Surtova](../Player%20Characters/Izaya%20Surtova.md) description
 
 we slowly move along the line
 
 we're the last.
 
-sloooooow
+the line is sooooo sloooooow
 ## Feast Leadup
 eventually a servant calls for us and lets us in.
 
@@ -79,18 +79,17 @@ slain dragons
 saved kingdoms
 they have an oracle; she points and gets a stare in return. Izaya points out that's rude and fails to demonstrate better.
 
-as we banter, two figures enter: pretty half-elf woman with sword and armor ([[jamandi aldori]]) and older guy with robe&staff (josef stolemius, human male, lord mayor of restov). Ducim mistakes josef for king of pitax.
+as we banter, two figures enter: pretty half-elf woman with sword and armor ([Jamandi Aldori](../NPCs/Jamandi%20Aldori.md)) and an older guy with robe&staff ([Josef Stolemius](../NPCs/Josef%20Stolemius.md)). Ducim mistakes josef for [Castruccio Irovetti](../NPCs/Castruccio%20Irovetti.md).
 
-man speaks first. greetings heroes. I am lord mayof of restov and this is lady jamandi aldori. thx all for attending.
+Josef speaks first. greetings heroes. I am lord mayof of restov and this is lady jamandi aldori. thx all for attending.
 jamandi takes his place. south of here are stolen lands. territory claimed over and over by various settlers, but area is a haven for bandits, monsters, and worse, so has never been held. this will now change.
 offer: go down there, pacify/colonize. support of restov: recognition, trade, military aid.
 she raises her glass to us and bids the feast begin. servants come in bringing food&drink.
 
 we remember nothing of note about jamandi.
 
-
-## influence minigame begin!
-20 minutes per round.
+## The Feast
+Influence subsystem go! 20 minutes per round.
 ### Round 1
 Veris is curious about a deathly pale elf in pale clothing (no jewelry, massive scythe) next to him.  He learns nothing.
 
