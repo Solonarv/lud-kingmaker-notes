@@ -23,9 +23,9 @@ starting to get dark already, skies threatening to rain.
 ### Descriptions
 [Verissian Laurentine](../Player%20Characters/Verissian%20Laurentine.md) (description) looks bored, but doesn't dare complain
 
-[Ducim Nogleshbesmar](../Player%20Characters/Ducim%20Nogleshbesmar.md) average height for a dwarf, shortish beard (reddish), practicality over fashion, nice well-groomed handlebar mustache. bronzish tanned skin. practical/functional clothes, clearly been mended and re-mended. tattered black cloak. sheathed beeg (executioner's) sword with markings on the hilt.
+[Ducim Nogleshbesmar](../Player%20Characters/Ducim%20Nogleshbesmar.md) 
 
-[Aerwynn Goldmoon](../Player%20Characters/Aerwynn%20Goldmoon.md) pretty short male elf. impeccably tailored clothes, hair beautifully brushed: very concerned about his appearance. has a big spellbook and a backpack. looks very concerned about possible rain.
+[Aerwynn Goldmoon](../Player%20Characters/Aerwynn%20Goldmoon.md)  looks very concerned about possible rain.
 
 [Izaya Surtova](../Player%20Characters/Izaya%20Surtova.md) description
 

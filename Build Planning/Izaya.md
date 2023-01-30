@@ -32,7 +32,7 @@ familiar that is a tiny stone <3
 default familiar abilities: innate surge (locked), familiar focus
 # Level 2
 ## Class 2: Enhanced Familiar
-note: could also take Familiar Master dedication. check with Lud about having multiple ongoing archetypes.
+note: could also take Familiar Master dedication. checked with Lud about having multiple ongoing archetypes: ok.
 
 +2 familiar abilities
 default familiar abilities: innate surge (locked), movement mode, 2 more

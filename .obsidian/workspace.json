@@ -8,24 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a807db720bb55173",
+            "id": "f97f81c396379b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Josef Stolemius.md",
+                "file": "Build Planning/Izaya.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f97f81c396379b4a",
+            "id": "d754dcb84ca65133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "915aa260cef48495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Jamandi Aldori.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Build Planning/Izaya.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Build Planning/Izaya.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Build Planning/Izaya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 1.md"
+                "file": "Build Planning/Izaya.md"
               }
             }
           }
@@ -171,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "319f4c9b1c57392c",
+  "active": "f97f81c396379b4a",
   "lastOpenFiles": [
-    "NPCs/Castruccio Irovetti.md",
+    "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
-    "NPCs/Josef Stolemius.md",
-    "Places/Brevoy/Restov.md",
-    "NPCs/Restov.md",
     "NPCs/Jamandi Aldori.md",
+    "Player Characters/Aerwynn Goldmoon.md",
+    "Player Characters/Ducim Nogleshbesmar.md",
     "Player Characters/Izaya Surtova.md",
     "Player Characters/Verissian Laurentine.md",
-    "Player Characters/Aerwynn Goldmoon.md",
-    "Player Characters/Ducim Nogleshbesmar.md"
+    "Build Planning/Izaya.md",
+    "NPCs/Castruccio Irovetti.md",
+    "NPCs/Josef Stolemius.md"
   ]
 }
