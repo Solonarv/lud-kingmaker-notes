@@ -41,4 +41,4 @@ unable to take anything seriously but this is actually just an affectation. deve
 Cautious about her kitsune nature (usually goes around as a human) but takes no great pains to conceal it. As far as she's concerned it's just a neat trick she can do, or so she says.
 Secretive about the source of her magics. Takes great trust to reveal aasimar nature or source of sorc powers.
 ### Religion
-Follows the Prismatic Ray (Desna, Shelyn, and Sarenrae). Unfortunately she has two left hands when it comes to making things, and reasons that scaring people is okay in combat scenarios, so she's probably never going to get the goddesses' personal attention in a positive way.
+Follows the Prismatic Ray (Desna, Shelyn, and Sarenrae), Shelyn in particular. She's a passable painter, but unfortunately doesn't have much time to work on her art.
