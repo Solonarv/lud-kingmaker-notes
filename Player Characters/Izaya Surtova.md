@@ -15,6 +15,8 @@ Tanako's former adventurous nature imprinted on her and eventually drove her to 
 ### Tailless form
 5'4" / 163 cm tall, 119 lb / 54 kg
 
+23 years old
+
 very pretty woman, enough to turn heads unless she deliberately tones it down
 
 shoulder-length platinum blonde hair, very atypical for a Surtova (same color as grandpa Tanako though).

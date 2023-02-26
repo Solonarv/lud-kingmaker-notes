@@ -129,7 +129,9 @@ signature: ?
 
 ## Level 6
 ### Class 6: Captivator Dedication?
-more spells!
+more spells! cantrips:
+ - infectious enthusiasm
+ - daze
 
 ### FA 6: Mercy
 LOH counteracts fear and paralyzed. conditions begone!
@@ -137,3 +139,16 @@ LOH counteracts fear and paralyzed. conditions begone!
 ## Level 7
 ### Ability Boost 7
 Cha 19 -> 20
+
+## Level 8
+### Class 8: ?
+more spells probably
+### FA 8: Basic Captivator Spellcasting
+a handful of innate spells (occult, illu/ench only)
+ - 1st: command
+ - 2nd: illusory creature, or touch of idiocy
+ - 3rd: ?
+
+## Level 9
+### Ancestry 9: Celestial Wings
+flap flap
