@@ -1,0 +1,1 @@
+The Thorn river goes through a deep, 20 ft wide gorge between rocky hills here. There's a rickety and unsafe wooden bridge across.

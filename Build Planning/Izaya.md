@@ -66,7 +66,7 @@ Dex (14 -> 16); or: Int (12->14)
 depending on how combat vs. noncombat focused we are (should be known by then)
 
 ### Sorc Spells
- - +summon animal / summon plant or fungus (1st)
+ - +summon fey (1st)
 
 ## Level 3
 ### Ability Boost 3

@@ -1,0 +1,1 @@
+The Thorn river is shallower here, with a 3 ft deep ford we can cross with the cart.

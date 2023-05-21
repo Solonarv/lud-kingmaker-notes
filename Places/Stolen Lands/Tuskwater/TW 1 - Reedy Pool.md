@@ -1,0 +1,2 @@
+The river makes a sharp bend here, into a deep pool fringed by reeds and covered in lilypads. freshly felled trees around. no activity at the moment though.
+there is a trail leading east (toward TW3 via TW 2).

@@ -1,0 +1,3 @@
+Looming over a hill is a graying hulk of a sycamore tree, 100 ft tall, seems to be dying, visible for miles around. around it are mitflits, gremlins who spend their days perfecting pranks and playing with oversized vermin. they're armed.
+
+Mitflits are a type of gremlin, who lost most of their magic. They find companionship with vermin/rats/centipedes/worms etc., and often live underground. Known as cruel fey tricksters.
