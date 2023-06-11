@@ -1,4 +1,5 @@
 #party #kitsune #aasimar #sorcerer #she/her
+darkvision
 
 Played by solonarv (me)
 

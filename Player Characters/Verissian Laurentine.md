@@ -1,4 +1,5 @@
 #party #half-elf #investigator #he/him 
+low-light vision
 
 Played by Delightified
 

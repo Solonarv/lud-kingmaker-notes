@@ -1,4 +1,5 @@
 #party #dwarf #fighter #he/him
+darkvision
 
 Played by Minihawking
 
