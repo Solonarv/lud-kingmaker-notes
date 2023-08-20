@@ -22,7 +22,7 @@ changes at OTP:
  - one additional figure, older man with receding hairline and big mustache, dressed in druid's robes.
 we crash into bed and decide to talk to them tomorrow.
 
-Pharast 10, 4710
+## Pharast 10, 4710
 
 We sell off our loot:
 > a cold iron hatchet, price new 40 gp, sells for half: 20 gp.

@@ -1,0 +1,1 @@
+the woodsman from [GB 2 - Dead Woodsman](GB%202%20-%20Dead%20Woodsman.md) was active here and left his traps all over the place

@@ -13,31 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Build Planning/Izaya.md",
+                "file": "Session Notes/Session 8.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a6660ca723611e4",
+            "id": "48efb6e2784defb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Places/Stolen Lands/Greenbelt/GB 14 - Mitflit Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "54940079e973fb64",
+            "id": "24021fd062b6d83d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Places/Stolen Lands/Greenbelt/GB 6 - Temple of the Elk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "893e770879e6c1bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Stolen Lands/Greenbelt/GB 1 - Traps and Hides.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff48898918a2da4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Build Planning/Izaya.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Build Planning/Izaya.md",
+                "file": "Session Notes/Session 8.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Build Planning/Izaya.md",
+                "file": "Session Notes/Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Build Planning/Izaya.md"
+                "file": "Session Notes/Session 8.md"
               }
             }
           }
@@ -204,7 +228,14 @@
   },
   "active": "f97f81c396379b4a",
   "lastOpenFiles": [
+    "Places/Stolen Lands/Greenbelt/GB 14 - Mitflit Tree.md",
+    "Session Notes/Session 8.md",
+    "Pasted image 20230820223430.png",
     "Session Notes/Session 7.md",
+    "Places/Stolen Lands/Greenbelt/GB 6 - Temple of the Elk.md",
+    "Places/Stolen Lands/Greenbelt/GB 1 - Traps and Hides.md",
+    "Places/Stolen Lands/Greenbelt/GB 2 - Dead Woodsman.md",
+    "Places/Stolen Lands/Greenbelt/GB 3 - Fey Pranksters.md",
     "Build Planning/Izaya.md",
     "Player Characters/Izaya Surtova.md",
     "Player Characters/Verissian Laurentine.md",
@@ -214,7 +245,6 @@
     "Player Characters/Ducim Nogleshbesmar.md",
     "Player Characters/Elphira Highgate.md",
     "Places/Stolen Lands/Greenbelt/GB 8 - Sootscale Cave.md",
-    "Places/Stolen Lands/Greenbelt/GB 14 - Mitflit Tree.md",
     "Places/Stolen Lands/Greenbelt/GB 19 - River Ford.md",
     "Places/Stolen Lands/Greenbelt/GB 13 - Rickety Bridge.md",
     "Places/Stolen Lands/Greenbelt/GB 18 - Spider Thicket.md",
@@ -225,14 +255,8 @@
     "Pasted image 20230521212201.png",
     "Places/Stolen Lands/Greenbelt/GB 16 - Tatzlwyrm Ford.md",
     "Places/Stolen Lands/Greenbelt/GB 11 - Swamp Village.md",
-    "Session Notes/Session 4.md",
     "Places/Stolen Lands/Tuskwater",
-    "Places/Stolen Lands/Rostland Hinterlands/RL 1 - Oleg's Trading Post.md",
-    "Session Notes/Session 3.md",
     "Places/Stolen Lands/Rostland Hinterlands",
-    "Places/Stolen Lands/Greenbelt/GB 5 - Sulfur Springs.md",
-    "Places/Stolen Lands/Greenbelt/GB 2 - Dead Woodsman.md",
-    "Places/Stolen Lands/Greenbelt/GB 4 - Moon Radishes.md",
     "Places/Stolen Lands/Greenbelt",
     "Places/Stolen Lands",
     "Pasted image 20230514214921.png",
