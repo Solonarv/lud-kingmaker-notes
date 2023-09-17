@@ -90,8 +90,8 @@ they call us "gremlins", say we're all the same: pointy ears, smooth skin. they 
 gremlins steal their statue, their radishes, their trees.
 suspicion: the mitflits from [GB 14 - Mitflit Tree](../Places/Stolen%20Lands/Greenbelt/GB%2014%20-%20Mitflit%20Tree.md)?
 statue of Old Sharptooth, somethingsomething spirits from sootscale
-shaman taktuk is helping them fight gremlins, protect cave&radishes.
-is the stolen tree the one in gb14? yes. the tree is shaman taktuk's old home. chief sootscale now has the shaman's help to take back the statue and end gremlins.
+shaman tartuk is helping them fight gremlins, protect cave&radishes.
+is the stolen tree the one in gb14? yes. the tree is shaman tartuk's old home. chief sootscale now has the shaman's help to take back the statue and end gremlins.
 izaya suggests that she can summon a mitflit so the kobolds can say whether that's the kind of gremlin that is messing with them. they don't want that.
 we suggest: those gremlins were mean to us also. we don't like them. ally?
 they say: if we help against gremlins, we can have some radishes. but they have to talk to chief sootscale first.

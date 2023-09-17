@@ -20,48 +20,48 @@
             }
           },
           {
+            "id": "fcf23a91483f390b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "183cc5bf58cbd942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59fc83a0ba64b69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Stolen Lands/Greenbelt/GB 8 - Sootscale Cave.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "48efb6e2784defb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Places/Stolen Lands/Greenbelt/GB 14 - Mitflit Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24021fd062b6d83d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Stolen Lands/Greenbelt/GB 6 - Temple of the Elk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "893e770879e6c1bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Stolen Lands/Greenbelt/GB 1 - Traps and Hides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65bef8dcd7cf980b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,20 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "886358114383c69c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Verissian Laurentine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "Session Notes/Session 9.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "Session Notes/Session 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +194,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 8.md"
+                "file": "Session Notes/Session 9.md"
+              }
+            }
+          },
+          {
+            "id": "7ebadf02fbda06a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -226,10 +225,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f97f81c396379b4a",
+  "active": "fcf23a91483f390b",
   "lastOpenFiles": [
-    "Places/Stolen Lands/Greenbelt/GB 14 - Mitflit Tree.md",
+    "Pasted image 20230917233112.png",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 9.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
     "Session Notes/Session 8.md",
+    "Places/Stolen Lands/Greenbelt/GB 8 - Sootscale Cave.md",
+    "Player Characters/Elphira Highgate.md",
+    "Places/Stolen Lands/Greenbelt/GB 14 - Mitflit Tree.md",
     "Pasted image 20230820223430.png",
     "Session Notes/Session 7.md",
     "Places/Stolen Lands/Greenbelt/GB 6 - Temple of the Elk.md",
@@ -243,18 +249,12 @@
     "Session Notes/Session 5.md",
     "NPCs/Oleg Leveton.md",
     "Player Characters/Ducim Nogleshbesmar.md",
-    "Player Characters/Elphira Highgate.md",
-    "Places/Stolen Lands/Greenbelt/GB 8 - Sootscale Cave.md",
     "Places/Stolen Lands/Greenbelt/GB 19 - River Ford.md",
     "Places/Stolen Lands/Greenbelt/GB 13 - Rickety Bridge.md",
     "Places/Stolen Lands/Greenbelt/GB 18 - Spider Thicket.md",
     "Places/Stolen Lands/Tuskwater/TW 2 - Gnomish Camp.md",
     "Places/Stolen Lands/Greenbelt/GB 7 - Kressle's Camp.md",
-    "Places/Stolen Lands/Tuskwater/TW 1 - Reedy Pool.md",
-    "Places/Stolen Lands/Tuskwater/TW 3 - Stag Lord's Fort.md",
     "Pasted image 20230521212201.png",
-    "Places/Stolen Lands/Greenbelt/GB 16 - Tatzlwyrm Ford.md",
-    "Places/Stolen Lands/Greenbelt/GB 11 - Swamp Village.md",
     "Places/Stolen Lands/Tuskwater",
     "Places/Stolen Lands/Rostland Hinterlands",
     "Places/Stolen Lands/Greenbelt",
